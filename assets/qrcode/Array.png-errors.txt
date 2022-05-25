@@ -1,0 +1,90 @@
+2021-07-07 09:47:42: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:44: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:45: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:45: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:45: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:45: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:45: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:46: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-07 09:47:46: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />

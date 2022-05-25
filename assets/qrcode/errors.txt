@@ -1,0 +1,31 @@
+2021-07-06 08:16:35: empty string!!!2021-07-07 08:04:41: empty string!!!2021-07-07 08:05:42: empty string!!!2021-07-07 14:26:35: empty string!!!2021-07-07 14:46:58: empty string!!!2021-07-11 02:45:48: empty string!!!2021-07-11 02:46:41: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-11 02:48:54: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-11 02:50:08: empty string!!!2021-07-11 03:07:00: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\apppenggajianguru\assets\qrcode\qrinput.php</b> on line <b>688</b><br />
+2021-07-20 15:59:53: empty string!!!
